@@ -7,12 +7,12 @@ This project demonstrates data cleaning and transformation using Microsoft Excel
 The dataset used is a Product Dataset containing Product ID, Product Name, Brand Name, Quantity, Category, and Price.
 
 Objectives
-Handle missing values
-Correct inconsistent data entries
-Remove duplicate records
-Split and merge columns
-Apply proper number formatting
-Use conditional formatting for visualization
+1. Handle missing values
+2. Correct inconsistent data entries
+3. Remove duplicate records
+4. Split and merge columns
+5. Apply proper number formatting
+6. Use conditional formatting for visualization
 
 Dataset Description
 Dataset Name: Product Dataset
