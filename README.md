@@ -55,7 +55,7 @@ Deliverables
 3. README documentation
 
 Project Structure
-Excel Assignment_2/
+Excel Assignment_2
 1. Cleaned and Transformed Dataset.xlsx
 2. PDF of Screenshots.pdf
 3. README.md
