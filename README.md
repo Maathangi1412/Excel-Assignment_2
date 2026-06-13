@@ -18,12 +18,12 @@ Dataset Description
 Dataset Name: Product Dataset
 
 Columns:
-Product ID
-Product Name
-Brand Name
-Quantity
-Category
-Price
+1. Product ID
+2. Product Name
+3. Brand Name
+4. Quantity
+5. Category
+6. Price
 
 Data Cleaning Steps
 
